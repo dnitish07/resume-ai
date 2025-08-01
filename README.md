@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/b92f04bd-940b-420f-ae48-7004fdab269d) and start prompting.
+Simply visit the [Lovable Project](https://futurebuilder123.netlify.app/) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
