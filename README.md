@@ -2,8 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/b92f04bd-940b-420f-ae48-7004fdab269d
-
+**URL**: https://futurebuilder123.netlify.app/
 ## How can I edit this code?
 
 There are several ways of editing your application.
