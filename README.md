@@ -2,14 +2,14 @@
 
 ## Project info
 
-**URL**: https://futurebuilder123.netlify.app/
+**URL**: https://resume-ai-pink.vercel.app/
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://futurebuilder123.netlify.app/) and start prompting.
+Simply visit the [Lovable Project](https://resume-ai-pink.vercel.app/) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
